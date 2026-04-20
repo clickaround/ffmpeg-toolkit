@@ -1,0 +1,12 @@
+{
+  "name": "ffmpeg-toolkit",
+  "description": "Production-ready FFmpeg automation skills for Claude Code. Audio processing (free), plus subtitle filter / video concat / video editor (pro).",
+  "version": "1.0.0",
+  "author": {
+    "name": "ClickAround",
+    "email": "clickaround8@gmail.com"
+  },
+  "homepage": "http://168.107.56.106/ffmpeg-toolkit/",
+  "license": "MIT (free tier) / Proprietary (pro tier)",
+  "keywords": ["ffmpeg", "video", "audio", "subtitles", "automation", "media"]
+}
