@@ -49,3 +49,8 @@ Without license, Pro skills output a purchase prompt instead of running.
 
 - Free tier skill: MIT (see `LICENSE`)
 - Pro tier skills: Proprietary commercial license (see `LICENSE-PRO`)
+
+
+## Latest posts
+
+- [2026-04-24] New: http://168.107.56.106/clickaround/blog/2026-04-24-ffmpeg-toolkit.html
