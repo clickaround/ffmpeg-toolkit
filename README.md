@@ -54,6 +54,9 @@ Without license, Pro skills output a purchase prompt instead of running.
 - [2026-04-24] New: http://168.107.56.106/clickaround/blog/2026-04-24-ffmpeg-toolkit.html
 
 
+- [2026-04-27] New: http://168.107.56.106/clickaround/blog/2026-04-27-ffmpeg-toolkit.html
+
+
 ## Latest posts
 
-- [2026-04-27] New: http://168.107.56.106/clickaround/blog/2026-04-27-ffmpeg-toolkit.html
+- [2026-04-30] New: http://168.107.56.106/clickaround/blog/2026-04-30-ffmpeg-toolkit.html
